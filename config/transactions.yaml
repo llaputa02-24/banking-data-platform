@@ -1,0 +1,22 @@
+validation:
+  timestamp_format: "%Y/%m/%d %H:%M"
+
+  allowed_currencies:
+    - Australian Dollar
+    - Bitcoin
+    - Brazil Real
+    - Canadian Dollar
+    - Euro
+    - Mexican Peso
+    - Ruble
+    - Rupee
+    - Saudi Riyal
+    - Shekel
+    - Swiss Franc
+    - UK Pound
+    - US Dollar
+    - Yen
+    - Yuan
+
+quality:
+  max_rejection_rate: 0.05
